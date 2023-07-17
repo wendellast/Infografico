@@ -473,6 +473,10 @@ img {
     justify-content: space-between;
     padding: 2rem;
 }
+
+.footer a{
+    color: black;
+}
  
 .footer__copyright, .footer__logo {
     padding: 0px 10px;
