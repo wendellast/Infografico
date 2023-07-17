@@ -186,9 +186,10 @@ img {
     flex: 6 1 160px;
 }
 .ppp{
+    text-align: right;
     font-weight: bold;
     font-size: 1.2rem;
-    text-align: center;
+    
     ;
 }
 .ppp-2{
@@ -325,7 +326,7 @@ img {
     border: 2px solid var(--clr-pink-dark);
 }
 .video{
-    border-radius: 30px;
+    border-radius: 20px;
     text-align: center;
     margin: 0 auto;
     display: block;
@@ -393,6 +394,7 @@ img {
 
 @media (max-width: 800px) {
     .vantagem {
+        margin: 0 auto;
         max-width: 220px;
     }
 }
